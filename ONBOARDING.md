@@ -34,8 +34,8 @@ This sheet is designed to help onboard new learners into the course.
 | 12  | 707.1 Design Linked List (Theory)                      | [🎥 Watch Video](https://www.youtube.com/watch?v=ZWtxxHEuCdU&list=PLVItHqpXY_DC3UTWNaskA1Q-1Gv-uAAb0&index=2)  | ✅      |
 | 13  | 707.2 Design Linked List (Code)                        | [🎥 Watch Video](https://www.youtube.com/watch?v=MLeTJR81O4E&list=PLVItHqpXY_DC3UTWNaskA1Q-1Gv-uAAb0&index=3)  | ✅      |
 | 14  | 0. Introduction to Queues                              | [🎥 Watch Video](https://www.youtube.com/watch?v=6Q-VOnii7FI&list=PLVItHqpXY_DAhbgYYowesZFXNwXHVvasj)          | ✅      |
-| 15  | 622. Design Circular Queue                             | [🎥 Watch Video](https://www.youtube.com/watch?v=CrZzJOyjQFE&list=PLVItHqpXY_DAhbgYYowesZFXNwXHVvasj&index=2)  | ☐      |
-| 16  | Queue Methods For Interviews                           | [🎥 Watch Video](https://www.youtube.com/watch?v=CClHsoo5CrQ&list=PLVItHqpXY_DAhbgYYowesZFXNwXHVvasj&index=3)  | ☐      |
+| 15  | 622. Design Circular Queue                             | [🎥 Watch Video](https://www.youtube.com/watch?v=CrZzJOyjQFE&list=PLVItHqpXY_DAhbgYYowesZFXNwXHVvasj&index=2)  | ✅      |
+| 16  | Queue Methods For Interviews                           | [🎥 Watch Video](https://www.youtube.com/watch?v=CClHsoo5CrQ&list=PLVItHqpXY_DAhbgYYowesZFXNwXHVvasj&index=3)  | ✅      |
 | 17  | 705. Design HashSet                                    | [🎥 Watch Video](https://www.youtube.com/watch?v=NfTyAM6T7to&list=PLVItHqpXY_DC3jKLtYYyM26ZdofoVVtpo)          | ☐      |
 | 18  | 706. Design HashMap                                    | [🎥 Watch Video](https://www.youtube.com/watch?v=Q2dzzbFqKmo&list=PLVItHqpXY_DC3jKLtYYyM26ZdofoVVtpo&index=2)  | ☐      |
 | 19  | Binary Tree-1-Theory                                   | [🎥 Watch Video](https://www.youtube.com/watch?v=KejwzBy5hkg&list=PLVItHqpXY_DCEWbz_zfevT6xhonHsJhE_)          | ☐      |
